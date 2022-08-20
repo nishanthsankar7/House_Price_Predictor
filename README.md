@@ -5,3 +5,5 @@ Used Machine Learning techniques to predict the house price in a prticular area 
 - Pandas
 - numpy
 - ploty
+## Usage
+Create a clone and use in jupyter notebook or in Google Colab
